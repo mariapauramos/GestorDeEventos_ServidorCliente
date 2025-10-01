@@ -1,1 +1,1 @@
-# GestorDeEventos_ServidorCliente
+# Gestor de Eventos Servidor-Cliente
