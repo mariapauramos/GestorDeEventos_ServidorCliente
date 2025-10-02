@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guibuscared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guibuscared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|c:\\users\\maria ramos\\source\\repos\\pocclienteevento\\pocclienteevento\\guieliminared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guieliminared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guiactualizared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guiactualizared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guicreared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guicreared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guilistared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guilistared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guilistarparametroed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guilistarparametroed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guieliminared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guieliminared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guiactualizared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guiactualizared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guilistarparametroed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guilistarparametroed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guilistared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guilistared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guicreared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guicreared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guicreared.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guicreared.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guibuscared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guibuscared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guiactualizared.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guiactualizared.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guibuscared.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guibuscared.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guiacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guiacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guiprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guiprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guiacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guiacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\pocclienteevento\\guiprincipal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{12671EE7-583A-4770-B5CC-61B97895585A}|POCClienteEvento\\POCClienteEvento.csproj|solutionrelative:pocclienteevento\\guiprincipal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GUIActualizarED.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIActualizarED.Designer.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIActualizarED.Designer.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIActualizarED.Designer.cs",
+              "RelativeToolTip": "POCClienteEvento\\GUIActualizarED.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:20:04.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GUIAcercaDe.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIAcercaDe.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIAcercaDe.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIAcercaDe.cs",
+              "RelativeToolTip": "POCClienteEvento\\GUIAcercaDe.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T00:38:22.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GUIAcercaDe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIAcercaDe.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIAcercaDe.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIAcercaDe.cs [Design]",
+              "RelativeToolTip": "POCClienteEvento\\GUIAcercaDe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T00:37:12.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GUIListarParametroED.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIListarParametroED.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIListarParametroED.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIListarParametroED.cs",
+              "RelativeToolTip": "POCClienteEvento\\GUIListarParametroED.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T00:32:00.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GUIListarParametroED.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIListarParametroED.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIListarParametroED.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIListarParametroED.cs [Design]",
+              "RelativeToolTip": "POCClienteEvento\\GUIListarParametroED.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T00:20:34.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GUIListarED.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIListarED.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIListarED.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIListarED.cs",
+              "RelativeToolTip": "POCClienteEvento\\GUIListarED.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAFQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T00:08:38.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GUIListarED.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIListarED.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIListarED.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIListarED.cs [Design]",
+              "RelativeToolTip": "POCClienteEvento\\GUIListarED.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T00:07:09.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GUIActualizarED.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIActualizarED.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIActualizarED.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIActualizarED.cs",
+              "RelativeToolTip": "POCClienteEvento\\GUIActualizarED.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T00:02:19.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GUIActualizarED.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIActualizarED.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIActualizarED.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIActualizarED.cs [Design]",
+              "RelativeToolTip": "POCClienteEvento\\GUIActualizarED.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:43:30.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GUIEliminarED.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIEliminarED.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIEliminarED.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIEliminarED.cs",
+              "RelativeToolTip": "POCClienteEvento\\GUIEliminarED.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAH8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:36:09.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GUIEliminarED.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIEliminarED.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIEliminarED.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIEliminarED.cs [Design]",
+              "RelativeToolTip": "POCClienteEvento\\GUIEliminarED.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:31:39.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GUIBuscarED.resx",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIBuscarED.resx",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIBuscarED.resx",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIBuscarED.resx",
+              "RelativeToolTip": "POCClienteEvento\\GUIBuscarED.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-26T05:26:24.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GUIBuscarED.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIBuscarED.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIBuscarED.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIBuscarED.cs",
+              "RelativeToolTip": "POCClienteEvento\\GUIBuscarED.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:58:12.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GUIBuscarED.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIBuscarED.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIBuscarED.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIBuscarED.cs [Design]",
+              "RelativeToolTip": "POCClienteEvento\\GUIBuscarED.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:50:53.096Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GUIPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIPrincipal.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIPrincipal.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIPrincipal.cs",
+              "RelativeToolTip": "POCClienteEvento\\GUIPrincipal.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:40:50.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GUICrearED.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUICrearED.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUICrearED.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUICrearED.cs",
+              "RelativeToolTip": "POCClienteEvento\\GUICrearED.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAD4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:18:26.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GUICrearED.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUICrearED.Designer.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUICrearED.Designer.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUICrearED.Designer.cs",
+              "RelativeToolTip": "POCClienteEvento\\GUICrearED.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:14:31.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GUICrearED.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUICrearED.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUICrearED.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUICrearED.cs [Design]",
+              "RelativeToolTip": "POCClienteEvento\\GUICrearED.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:14:02.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\Program.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\Program.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\Program.cs",
+              "RelativeToolTip": "POCClienteEvento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:55:32.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GUIPrincipal.resx",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIPrincipal.resx",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIPrincipal.resx",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIPrincipal.resx",
+              "RelativeToolTip": "POCClienteEvento\\GUIPrincipal.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-26T03:36:02.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GUIPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIPrincipal.Designer.cs",
+              "RelativeToolTip": "POCClienteEvento\\GUIPrincipal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:35:56.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GUIPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIPrincipal.cs",
+              "RelativeDocumentMoniker": "POCClienteEvento\\GUIPrincipal.cs",
+              "ToolTip": "C:\\Users\\Maria Ramos\\source\\repos\\POCClienteEvento\\POCClienteEvento\\GUIPrincipal.cs [Design]",
+              "RelativeToolTip": "POCClienteEvento\\GUIPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:34:37.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
